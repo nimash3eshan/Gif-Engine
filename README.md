@@ -2,7 +2,7 @@
  
 
 <p align="center">
-  <i>a gifCreated By me.</i><br>
+  <i>a gif engine Created By me.</i><br>
   find me on <a href="https://dsc.gg/ceylon"> Discord </a>
   <br><br>
   Remediation
