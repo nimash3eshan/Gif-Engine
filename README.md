@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>a gif engine Created By me.</i><br>
-  find me on <a href="https://dsc.gg/ceylon"> Discord </a>
+  find me on <a href="https://dsc.gg/docker"> Discord </a>
   <br><br>
   Remediation <br>
   Get your api key from giphy site<br>
